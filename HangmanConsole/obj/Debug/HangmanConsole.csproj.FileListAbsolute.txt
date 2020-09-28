@@ -1,0 +1,7 @@
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\bin\Debug\HangmanConsole.exe.config
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\bin\Debug\HangmanConsole.exe
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\bin\Debug\HangmanConsole.pdb
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\obj\Debug\HangmanConsole.csprojAssemblyReference.cache
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\obj\Debug\HangmanConsole.csproj.CoreCompileInputs.cache
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\obj\Debug\HangmanConsole.exe
+C:\Users\Monique\Desktop\GoldBadge\Hangman2020\HangmanConsole\obj\Debug\HangmanConsole.pdb
